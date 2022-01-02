@@ -244,7 +244,7 @@ nav ul li {
 }
 
 #header.scroll .logo span {
-  color: white;
+  color: var(--base-color);
 }
 
 #header.scroll .icon-menu span {
@@ -446,7 +446,6 @@ nav ul li {
 .swiper-slide {
   height: auto;
   padding: 4rem 1rem;
-
 }
 
 .swiper-pagination-bullet {
